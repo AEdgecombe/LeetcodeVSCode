@@ -32,3 +32,27 @@ Before you start, make sure you have:
 2. Clone the LeetCode repository (or create a new one) by using the following command:
    ```sh
    git clone https://github.com/your-username/your-repo-name.git
+   ```
+3. Navigate to the cloned repository:
+   ```sh
+   cd your-repo-name
+   ```
+
+### 4. Start Coding
+
+1. Open a LeetCode problem by opening the Command Palette (`Ctrl+Shift+P`) and selecting `LeetCode: Open Problem`.
+2. Solve the problem in the editor, and use the LeetCode extension to test and submit your code.
+
+## Additional Resources
+
+- [LeetCode Documentation](https://leetcode.com/)
+- [VSCode Documentation](https://code.visualstudio.com/docs)
+
+## Contributing
+
+If you'd like to contribute to this guide or have suggestions for improvement, please fork the repository and create a pull request.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+```
