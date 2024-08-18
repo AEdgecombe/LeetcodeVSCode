@@ -42,7 +42,7 @@ Before you start, make sure you have:
 
 1. **Open a LeetCode Problem**:
    - Open the Command Palette by pressing `Ctrl+Shift+P` (or `Cmd+Shift+P` on macOS).
-   - Type `LeetCode: Open Problem` and select it from the list.
+   - Type `LeetCode: Search Problem` and select it from the list.
    - Choose a problem from your LeetCode account to open it in the editor.
 
 2. **Write Your Solution**:
