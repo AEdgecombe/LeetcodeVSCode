@@ -40,8 +40,26 @@ Before you start, make sure you have:
 
 ### 4. Start Coding
 
-1. Open a LeetCode problem by opening the Command Palette (`Ctrl+Shift+P`) and selecting `LeetCode: Open Problem`.
-2. Solve the problem in the editor, and use the LeetCode extension to test and submit your code.
+1. **Open a LeetCode Problem**:
+   - Open the Command Palette by pressing `Ctrl+Shift+P` (or `Cmd+Shift+P` on macOS).
+   - Type `LeetCode: Open Problem` and select it from the list.
+   - Choose a problem from your LeetCode account to open it in the editor.
+
+2. **Write Your Solution**:
+   - In the editor, write your code to solve the problem.
+
+3. **Test Your Code**:
+   - Open the Command Palette by pressing `Ctrl+Shift+P` (or `Cmd+Shift+P` on macOS).
+   - Type `LeetCode: Test` and select it from the list.
+   - The extension will run your code against the test cases provided by LeetCode and display the results in the Output pane or inline in the editor.
+
+4. **Submit Your Code**:
+   - Open the Command Palette by pressing `Ctrl+Shift+P` (or `Cmd+Shift+P` on macOS).
+   - Type `LeetCode: Submit` and select it from the list.
+   - Confirm the submission when prompted. The extension will submit your solution to LeetCode.
+
+By following these steps, you can efficiently test and submit your LeetCode solutions directly from VSCode.
+
 
 ## Additional Resources
 
